@@ -1,0 +1,15 @@
+th,td{
+    color: brown;
+    border: 3px solid black;
+ }
+ .head{
+    color: rgb(0, 206, 155);
+    border: 2px solid blueviolet;
+    width: 20%;
+    background-color: pink;
+    margin-left: 100px;
+    padding-left: 20px;
+ }
+ #h3{
+    color: darkgoldenrod;
+ }
